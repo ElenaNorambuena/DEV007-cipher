@@ -1,8 +1,19 @@
 body {
 
     background-image: url(dead.jpg);
+    background-color: rgba(197, 131, 51, 0.829);
+    background-position: center;
+    background-repeat: no-repeat;
+
+button {
+    padding: 8px;
+    border: solid 1px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
 
 }
+    *font-family: "Harry P", "H74 Sacred Heart", "CF Old Milwaukee"
 
 
 
