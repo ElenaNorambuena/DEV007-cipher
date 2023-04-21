@@ -1,3 +1,8 @@
+
+h1, h2 {
+
+    text-align: center;
+}
 body {
 
     background-image: url(dead.jpg);
@@ -13,15 +18,9 @@ button {
   }
 
 }
-    *font-family: "Harry P", "H74 Sacred Heart", "CF Old Milwaukee"
-
-
-
-h1, h2 {
-
-    text-align: center;
+{
+*font-family: 'Harry P', 'H74 Sacred Heart', 'CF Old Milwaukee'
 }
-
 h3, input, button {
 
     text-align: center;
