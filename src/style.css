@@ -21,7 +21,7 @@ body {
 
  input, button {
     text-align: center;
-    text-size-adjust: 30px;
+    text-size-adjust: 20px;
     border: none;
     outline: none;
     justify-items: center;
@@ -31,7 +31,8 @@ body {
     cursor: pointer;
     border-color: rgb(129, 64, 4);
     color: rgb(196, 127, 62);
-    background-color: rgba(233, 195, 112, 0.925);    
+    background-color: rgba(233, 195, 112, 0.925);
+    color
 }
 
 h1, h2, h3 {
@@ -40,4 +41,8 @@ h1, h2, h3 {
     font-size:xx-large;
     font-weight:lighter;
     text-shadow: 4px 4px 4px rgba(255, 255, 255, 0.932);
+}
+
+h1{
+    font-size: 50px;
 }
