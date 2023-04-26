@@ -41,9 +41,7 @@ h1, h2, h3 {
     font-size:xx-large;
     font-weight:400;
     text-shadow: 4px 8px 3px rgb(109, 96, 96) ;
-    -webkit-text-stroke: ;
 }
-
 h1{
     font-size: 50px;
 }
