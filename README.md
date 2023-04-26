@@ -46,3 +46,7 @@ El mensaje descifrado estará en el recuadro "travesura realizada!"
 ### Deploy
 
 https://elenanorambuena.github.io/DEV007-cipher/
+
+Este es el prototipo inicial de muy baja fidelidad:
+
+![(https://github.com/ElenaNorambuena/DEV007-cipher/blob/main/src/proto.jpg)]
